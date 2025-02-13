@@ -1,0 +1,12 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+136      145         10  3(AGA)  AGAAGAAGAA
+357      365         9  4(ATAC)  ATACATACA
+536      544         9  3(GAT)  GATGATGAT
+1607      1616         10  3(TGC)  TGCTGCTGCT
+2887      2895         9  4(ACCA)  ACCAACCAA
+3102      3110         9  4(CCTC)  CCTCCCTCC
+4409      4417         9  4(GGAG)  GGAGGGAGG

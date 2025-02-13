@@ -1,0 +1,12 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+1385      1396         12  4(GATT)  GATTGATTGATT
+1490      1498         9  4(GGCA)  GGCAGGCAG
+1717      1726         10  4(TTCC)  TTCCTTCCTT
+2481      2490         10  3(TTC)  TTCTTCTTCT
+3525      3533         9  4(TATT)  TATTTATTT
+4385      4393         9  2(TC)  TCTCTCTCT
+5927      5935         9  2(TA)  TATATATAT

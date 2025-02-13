@@ -1,0 +1,14 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+444      452         9  4(GGAG)  GGAGGGAGG
+1385      1394         10  4(GATT)  GATTGATTGA
+2580      2589         10  3(GGA)  GGAGGAGGAG
+2998      3008         11  4(GAAG)  GAAGGAAGGAA
+3288      3296         9  4(TTAT)  TTATTTATT
+3549      3557         9  4(ATTC)  ATTCATTCA
+4255      4263         9  4(GCTG)  GCTGGCTGG
+4928      4936         9  3(GGA)  GGAGGAGGA
+6214      6222         9  4(TAAT)  TAATTAATT

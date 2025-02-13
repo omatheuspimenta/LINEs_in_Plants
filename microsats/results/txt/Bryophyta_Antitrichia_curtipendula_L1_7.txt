@@ -1,0 +1,16 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+685      693         9  4(AAGG)  AAGGAAGGA
+720      729         10  3(AGA)  AGAAGAAGAA
+785      795         11  3(CAC)  CACCACCACCA
+910      918         9  3(GAA)  GAAGAAGAA
+5661      5669         9  4(AACA)  AACAAACAA
+5665      5673         9  3(AAC)  AACAACAAC
+5691      5699         9  4(GGAG)  GGAGGGAGG
+6107      6115         9  4(GCTG)  GCTGGCTGG
+6382      6391         10  3(CTA)  CTACTACTAC
+7073      7083         11  4(GTCC)  GTCCGTCCGTC
+7134      7159         26  1(A)  AAAAAAAAAAAAAAAAAAAAAAAAAA

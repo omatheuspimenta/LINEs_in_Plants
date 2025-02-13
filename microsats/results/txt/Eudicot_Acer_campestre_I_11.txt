@@ -1,0 +1,17 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+834      842         9  3(AGG)  AGGAGGAGG
+963      971         9  4(TTCT)  TTCTTTCTT
+1267      1276         10  4(CAAT)  CAATCAATCA
+1967      1977         11  3(TTC)  TTCTTCTTCTT
+1976      1986         11  4(TTGG)  TTGGTTGGTTG
+2091      2099         9  4(TTGG)  TTGGTTGGT
+2851      2860         10  4(TTCC)  TTCCTTCCTT
+3085      3093         9  3(TTC)  TTCTTCTTC
+3439      3447         9  4(TTCG)  TTCGTTCGT
+3957      3969         13  2(TC)  TCTCTCTCTCTCT
+4939      4947         9  3(CTT)  CTTCTTCTT
+5985      5993         9  1(A)  AAAAAAAAA

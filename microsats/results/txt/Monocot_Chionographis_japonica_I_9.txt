@@ -1,0 +1,14 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+352      360         9  4(GCGA)  GCGAGCGAG
+2669      2678         10  4(ATGA)  ATGAATGAAT
+2696      2704         9  3(GAA)  GAAGAAGAA
+2960      2968         9  3(GCT)  GCTGCTGCT
+3417      3425         9  4(AGAT)  AGATAGATA
+3646      3654         9  4(TCTT)  TCTTTCTTT
+5029      5037         9  4(TTGT)  TTGTTTGTT
+5886      5897         12  4(TATT)  TATTTATTTATT
+5913      5938         26  1(A)  AAAAAAAAAAAAAAAAAAAAAAAAAA

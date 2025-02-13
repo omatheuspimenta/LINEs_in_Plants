@@ -1,0 +1,15 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+651      660         10  3(AAG)  AAGAAGAAGA
+993      1001         9  4(AGAT)  AGATAGATA
+1173      1182         10  2(AC)  ACACACACAC
+2729      2737         9  4(AAGA)  AAGAAAGAA
+2998      3006         9  4(TGAA)  TGAATGAAT
+3171      3179         9  4(ATGA)  ATGAATGAA
+3636      3646         11  3(CTT)  CTTCTTCTTCT
+3892      3900         9  1(A)  AAAAAAAAA
+4154      4162         9  4(AATG)  AATGAATGA
+5686      5694         9  3(ATA)  ATAATAATA
