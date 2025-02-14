@@ -1,9 +1,0 @@
-
-**********************************TRs Found by RPTRF**********************************
-
-Start            End            Len        Motif length( Sequence )
-
-706      714         9  3(ACT)  ACTACTACT
-2287      2295         9  4(ACTT)  ACTTACTTA
-3420      3433         14  4(TTTC)  TTTCTTTCTTTCTT
-3504      3515         12  1(A)  AAAAAAAAAAAA

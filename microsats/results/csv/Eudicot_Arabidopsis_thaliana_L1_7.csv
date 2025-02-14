@@ -1,7 +1,0 @@
-start;end;len;motif_seq;seq
-902;910;9;3(TAA);TAATAATAA
-1518;1526;9;3(GTA);GTAGTAGTA
-3276;3284;9;2(CT);CTCTCTCTC
-4536;4544;9;2(GA);GAGAGAGAG
-4744;4752;9;1(t);ttttttttt
-4775;4784;10;1(a);aaaaaaaaaa
