@@ -6,5 +6,5 @@
 4. [Citation](#cite)
 
 ## Introduction
-Long Interspersed Nuclear Elements (LINEs) are transposable elements that are found in plants and other eukaryotic organisms. They are also known as non-LTR retrotransposons, and they are a type of retrotransposon. LINEs are autonomous, meaning that they encode the proteins necessary
+
 
