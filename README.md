@@ -12,3 +12,47 @@ TEs are divided into two main Classes, I and II, according to the transposition 
 Based on structural features and phylogenetic analyses, LINEs are grouped into LINE-1 (L1), retrotransposable elements (RTE), I, R2 and jockey. Based on sequence diversification, these five groups further suggest several subdivisions or clades (Kapitonov, Tempel and Jurka, 2009). The general mechanism of retrotransposition of LINEs is known as Target-Primed Reverse Transcription, or TPRT (Ostertag and Kazazian, 2001). In general, this mechanism suggests a strong dependence on the poly A tail (3') for retrotransposition and, because of this, the 5' region where is the ORF-1 would be less conserved (Luan and Eickbush, 1995; Eickbush and Malik, 2007; Mhiri et al. 2022).  
 In general, retrotransposons without LTRs (non-LTR-RTs) predominate in animals while retrotransposons with LTRs (LTR-RTs) are most common in plant genomes. The Homo sapiens L. 1758 genome contains more than 45% TEs, of which 8.3% are LTR-RT elements, 33.7% are without LTR and 2.8% are transposons (Zhao, Ferguson and Jiang, 2016; Pappalardo et al., 2021). In contrast, more than 80% of the Hordeum vulgare L. 1753 genome is composed of TEs, of which 75% are LTR elements, 0.3% are without LTRs and 5% are transposons (Mascher et al., 2017). Due to the low expression of LINEs in plants, only a few families of LINEs have been described in these genomes (Schwarz-Sommer et al., 1987, Leeton and Smyth, 1993; Wright et al., 1996; Higashiyama et al., 1997; Noma et al., 2000; Sakamoto et al., 2000; Vershinin et al., 2002; Komatsu et al., 2003, Yamashita and Tahara, 2006). However, understanding these sequences and their mechanisms of transition are essential to understanding plant genomes, as well as how they are organized and evolve.  
 There are several tools for searching, identifying and classifying TEs (Ou et al., 2019; Neumann et al., 2019; Panta et al. 2021; Orozco-Arias et al., 2022; Ren-Gang et al., 2022; Morad, 2023; Rodriguez and Arkhipova, 2023), but these tools are not very accurate when searching for LINEs. The high diversification of UTRs, the absence of LTRs, the degeneration of ORF-1, and the low curation of plant-specific LINEs in the databases have made the work of annotating LINEs very difficult. In this study, we have used two different systems to search for LINEs in plant genomes sequenced by long-read technology. In the first, we started from a restructured and carefully curated database and used alignment tools to screen and annotate the LINEs. In the second, we used machine learning based on K-mers in an alignment-free search for identification and annotation. The comparative analysis took into account the phylogeny, dating (time of insertion and expansion), and localization patterns of LINEs in pseudochromosomes, always comparing species belonging to the major plant groups, from liverworts to angiosperms.
+
+## Lines In Plants
+
+## Repository
+This repository is organized as follows:
+
+### Code
+The `code` folder contains all files related to the replication of the methodology:
+
+- [`compress.sh`](code/compress.sh): Compresses all FASTA files to `.tar.xz` format.
+- [`get_kmers.ipynb`](code/get_kmers.ipynb): Generates the RAW, soft, and hard annotation regions, along with annotation images.
+- [`organize_files_domains.py`](code/organize_files_domains.py): Organizes the LINE `.fasta` files into `.fasta` files of the LINE domains.
+- [`organize_files_lines.py`](code/organize_files_lines.py): Organizes the LINE `.fasta` files.
+- [`organize_files_organisms.py`](code/organize_files_organisms.py): Organizes the LINE `.fasta` files of the organisms into separate folders.
+- [`plot_regions_msat.py`](code/plot_regions_msat.py): Generates graphs of the annotations, including microsat annotations.
+- [`run_RPTRF.py`](code/run_RPTRF.py): Runs the RPTRF program and organizes and analyzes the results.
+- [`split_seqs_regions.py`](code/split_seqs_regions.py): Separates the regions of the LINEs domains based on the metadata.
+
+### Data
+The `data` folder contains all files related to the work and is subdivided as follows:
+
+- [`Article_Figures_Tables`](data/Article_Figures_Tables/): Contains all figures and tables related to the article, further divided into:
+  - [`Article_Figures`](data/Article_Figures_Tables/Article_Figures/): Contains all figures present in the article.
+  - [`Supplementary_Figures`](data/Article_Figures_Tables/Supplementary_Figures/): Contains all supplementary figures of the article.
+  - [`Supplementary_Tables`](data/Article_Figures_Tables/Supplementary_Tables/): Contains all supplementary tables of the article.
+- [`Database_RT_LINEs`](data/Database_RT_LINEs/): Contains the UGENE Kimura parameters, the initial database, and all plant RTs.
+- [`anotacao_graph.csv`](data/anotacao_graph.csv): Contains the annotations used to generate supplementary images.
+- [`metadata_updated.csv`](data/metadata_updated.csv): Contains the metadata used for annotation, extraction, and database generation.
+- [`microsats_analysis.csv`](data/microsats_analysis.csv): Contains the microsat analyses of all sequences after the execution of the RPTRF program.
+- [`seqs.tar.xz`](data/seqs.tar.xz): Contains the sequences of the complete LINEs used for the analyses.
+- [`tandemrepeats_metadados_annotation.csv`](data/tandemrepeats_metadados_annotation.csv): Contains the metadata used for microsat analyses.
+
+Additionally, the `data` folder contains the following subfolders: `Angiospermophyta`, `Bryophyta`, `Hepatophytas`, `Pinophyta`, and `Polypodiophyta`. These folders contain all sequences, annotations, domains, figures, and analyses. Each organism has its own folder with the following structure:
+
+- `Annotation`: Contains annotations obtained from CD-HIT and microsat annotations.
+- `Entire_LINES_sequences`: Contains the complete LINE sequences for the organism.
+- `domains`: Contains domain sequences separated into `Separate_sequence_Domains_LINEs` and combined sequences in `Combined_sequence_Domains_LINEs`.
+- `Test_Sequences`: When available, this folder contains sequences without annotations that were used to validate the proposed k-mer methodology.
+
+
+
+## Cite
+
+Soon
