@@ -1,0 +1,12 @@
+start;end;len;motif_seq;seq
+38;49;12;1(t);tttttttttttt
+356;365;10;3(ggc);ggcggcggcg
+494;508;15;3(cgg);cggcggcggcggcgg
+507;522;16;3(gga);ggaggaggaggaggag
+826;836;11;3(TGA);TGATGATGATG
+1129;1137;9;4(ATGA);ATGAATGAA
+2326;2334;9;3(GAA);GAAGAAGAA
+3447;3455;9;4(GATC);GATCGATCG
+4259;4267;9;4(gctg);gctggctgg
+4351;4360;10;3(aga);agaagaagaa
+4540;4549;10;4(TATG);TATGTATGTA

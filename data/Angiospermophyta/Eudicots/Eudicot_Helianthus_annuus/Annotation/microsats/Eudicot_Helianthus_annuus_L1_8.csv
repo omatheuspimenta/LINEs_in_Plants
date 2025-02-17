@@ -1,0 +1,7 @@
+start;end;len;motif_seq;seq
+1411;1419;9;4(AGAA);AGAAAGAAA
+3618;3626;9;4(GAAG);GAAGGAAGG
+4469;4477;9;4(GGGT);GGGTGGGTG
+4519;4527;9;3(tgg);tggtggtgg
+5432;5440;9;4(ggaa);ggaaggaag
+5659;5672;14;1(a);aaaaaaaaaaaaaa

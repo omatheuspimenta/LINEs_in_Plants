@@ -1,0 +1,15 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+44      53         10  4(CCTT)  CCTTCCTTCC
+246      254         9  3(CTT)  CTTCTTCTT
+1712      1720         9  3(CTG)  CTGCTGCTG
+3674      3687         14  4(CTCA)  CTCACTCACTCACT
+3691      3702         12  2(TC)  TCTCTCTCTCTC
+4403      4412         10  3(TGT)  TGTTGTTGTT
+5337      5346         10  4(CATT)  CATTCATTCA
+5414      5422         9  3(TGC)  TGCTGCTGC
+5572      5580         9  4(TATT)  TATTTATTT
+5702      5715         14  1(A)  AAAAAAAAAAAAAA

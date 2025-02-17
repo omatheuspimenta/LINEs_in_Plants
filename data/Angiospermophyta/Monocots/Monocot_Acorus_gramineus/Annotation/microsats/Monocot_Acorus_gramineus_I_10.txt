@@ -1,0 +1,14 @@
+
+**********************************TRs Found by RPTRF**********************************
+
+Start            End            Len        Motif length( Sequence )
+
+293      303         11  4(GCCA)  GCCAGCCAGCC
+639      647         9  3(ATG)  ATGATGATG
+1295      1303         9  4(ATCC)  ATCCATCCA
+1337      1345         9  4(AATC)  AATCAATCA
+2380      2388         9  4(AACA)  AACAAACAA
+3026      3034         9  4(TCCT)  TCCTTCCTT
+5549      5557         9  3(TAC)  TACTACTAC
+5728      5739         12  1(T)  TTTTTTTTTTTT
+5808      5824         17  1(A)  AAAAAAAAAAAAAAAAA

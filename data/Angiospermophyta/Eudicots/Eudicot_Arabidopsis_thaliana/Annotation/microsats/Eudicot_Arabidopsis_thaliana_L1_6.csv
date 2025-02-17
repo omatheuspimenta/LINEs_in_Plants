@@ -1,0 +1,5 @@
+start;end;len;motif_seq;seq
+1444;1456;13;3(gtt);gttgttgttgttg
+1850;1858;9;4(TTCC);TTCCTTCCT
+2237;2245;9;3(CTG);CTGCTGCTG
+4968;4980;13;1(a);aaaaaaaaaaaaa
