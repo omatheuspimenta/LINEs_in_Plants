@@ -47,8 +47,3 @@ Additionally, the `data` folder contains the following subfolders: `Angiospermop
 - `domains`: Contains domain sequences separated into `Separate_sequence_Domains_LINEs` and combined sequences in `Combined_sequence_Domains_LINEs`.
 - `Test_Sequences`: When available, this folder contains sequences without annotations that were used to validate the proposed k-mer methodology.
 
-
-
-## Cite
-
-Soon
