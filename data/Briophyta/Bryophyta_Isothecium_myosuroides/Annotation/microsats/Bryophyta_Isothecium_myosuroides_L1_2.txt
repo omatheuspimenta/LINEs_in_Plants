@@ -1,9 +1,0 @@
-
-**********************************TRs Found by RPTRF**********************************
-
-Start            End            Len        Motif length( Sequence )
-
-441      451         11  4(ATTC)  ATTCATTCATT
-902      910         9  4(TGGA)  TGGATGGAT
-2893      2902         10  4(TGCT)  TGCTTGCTTG
-3001      3009         9  3(AGA)  AGAAGAAGA
