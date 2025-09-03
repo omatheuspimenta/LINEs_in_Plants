@@ -1,0 +1,221 @@
+Organism Name;SeqName;Name of element;Size (bp);ORF-1 RRM;ORF-1 DUF;ORF-1 zf-CCHC;EEP;RT;RVT;RH;GTT;Poli-A
+Lunularia cruciata (L.) Dumort. ex Lindb.;RTE_Lunularia_cruciata_seq1;RTE_seq1;4313;;;;537-1328;2058-2822;;;;4305-4313
+Lunularia cruciata (L.) Dumort. ex Lindb.;RTE_Lunularia_cruciata_seq2;RTE_seq2;3685;;;;512-1303;2033-2797;;;;3675-3685
+Lunularia cruciata (L.) Dumort. ex Lindb.;RTE_Lunularia_cruciata_seq3;RTE_seq3;4314;;;;537-1328;2058-2822;;;;4305-4314
+Lunularia cruciata (L.) Dumort. ex Lindb.;RTE_Lunularia_cruciata_seq4;RTE_seq4;4172;;;;537-1328;2058-2822;;;;4163-4172
+Lunularia cruciata (L.) Dumort. ex Lindb.;RTE_Lunularia_cruciata_seq5;RTE_seq5;4337;;;;537-1328;2058-2822;;;;4320-4337
+Marchantia polymorpha L.;RTE_Marchantia_polymorpha_seq1;RTE_seq1;4246;;;;303-752;1818-2582;;;;4235-4246
+Marchantia polymorpha L.;RTE_Marchantia_polymorpha_seq2;RTE_seq2;4287;;;;562-1011;2077-2841;;;;4276-4287
+Marchantia polymorpha L.;RTE_Marchantia_polymorpha_seq3;RTE_seq3;4288;;;;562-1011;2077-2841;;;;4276-4288
+Marchantia polymorpha L.;RTE_Marchantia_polymorpha_seq4;RTE_seq4;4296;;;;543-992;2058-2822;;;;4287-4296
+Ricciocarpus natans (L.) Corda;L1_Ricciocarpos_natans_seq1;L1_seq1;4917;;265-504;;1698-2138;3258-4046;;;;4907-4917
+Ricciocarpus natans (L.) Corda;L1_Ricciocarpos_natans_seq2;L1_seq2;3988;;;;504-1214;2058-2852;;;;3971-3988
+Sphagnum fallax (H.Klinggr.) H.Klinggr;L1_Sphagnum_fallax_seq1;L1_seq1;7499;;497-868;;2466-3221;4050-4832;6033-6329;;;7482-7499
+Sphagnum fallax (H.Klinggr.) H.Klinggr;L1_Sphagnum_fallax_seq2;L1_seq2;7320;;546-917;;2467-3027;4036-4827;6155-6334;;;7311-7320
+Sphagnum fallax (H.Klinggr.) H.Klinggr;L1_Sphagnum_fallax_seq3;L1_seq3;7274;;938-1210;;2634-3395;4216-5007;6327-6509;;;7260-7274
+Sphagnum fallax (H.Klinggr.) H.Klinggr;RTE_Sphagnum_fallax_seq1;RTE_seq1;4239;;;;713-1195;2359-3147;;;;4227-4239
+Sphagnum fallax (H.Klinggr.) H.Klinggr;RTE_Sphagnum_fallax_seq2;RTE_seq2;3997;;;;435-878;2064-2849;;;;3984-3997
+Ceratodon purpureus (Hedw.) Brid.;L1_Ceratodon_purpureus_seq1;L1_seq1;6838;;291-635;;2467-3225;4056-4847;6015-6317;;;6821-6838
+Ceratodon purpureus (Hedw.) Brid.;L1_Ceratodon_purpureus_seq2;L1_seq2;4921;;;;724-1482;2311-3087;4282-4569;;;4910-4921
+Ceratodon purpureus (Hedw.) Brid.;L1_Ceratodon_purpureus_seq3;L1_seq3;4844;;144-503;;1795-2562;3376-4167;;;;4832-4844
+Ceratodon purpureus (Hedw.) Brid.;L1_Ceratodon_purpureus_seq4;L1_seq4;6098;;114-587;;1609-2376;3193-3981;5275-5466;;;6081-6098
+Ceratodon purpureus (Hedw.) Brid.;L1_Ceratodon_purpureus_seq5;L1_seq5;5536;;;;234-992;1809-2597;3786-4073;;;5525-5536
+Thuidium tamariscinum (Hedw.) Schimp.;L1_Thuidium_tamariscinum_seq1;L1_seq1;6932;;238-399;;2564-3313;4146-4934;6216-6404;;;6912-6932
+Thuidium tamariscinum (Hedw.) Schimp.;L1_Thuidium_tamariscinum_seq2;L1_seq2;6748;;259-606;;2516-3268;4093-4881;6085-6351;;;6740-6748
+Thuidium tamariscinum (Hedw.) Schimp.;L1_Thuidium_tamariscinum_seq3;L1_seq3;7044;;315-581;;2389-3150;3976-4764;6058-6279;;;7033-7044
+Thuidium tamariscinum (Hedw.) Schimp.;L1_Thuidium_tamariscinum_seq4;L1_seq4;7024;;380-736;;2644-3405;4219-5010;6299-6481;;;7019-7024
+Antitrichia curtipendula (Hedw.) Brid.;L1_Antitrichia_curtipendula_seq1;L1_seq1;7768;;239-643;;2463-3227;4041-4832;6135-6299;;;7747-7768
+Antitrichia curtipendula (Hedw.) Brid.;L1_Antitrichia_curtipendula_seq2;L1_seq2;5156;;;;199-516;1336-2121;3376-3591;;;5146-5156
+Antitrichia curtipendula (Hedw.) Brid.;L1_Antitrichia_curtipendula_seq3;L1_seq3;5368;;;;231-1007;1821-2603;3891-4112;;;5353-5368
+Antitrichia curtipendula (Hedw.) Brid.;L1_Antitrichia_curtipendula_seq4;L1_seq4;8036;;419-772;;2787-3347;4164-4946;6225-6425;;;8022-8036
+Antitrichia curtipendula (Hedw.) Brid.;L1_Antitrichia_curtipendula_seq5;L1_seq5;5668;;;;262-870;1690-2481;3778-3945;;;5660-5668
+Straminergon stramineum (Dicks. ex Brid.);L1_Straminergon_stramineum_seq1;L1_seq1;4610;;99-488;;1976-2629;3523-4326;;;;4600-4610
+Straminergon stramineum (Dicks. ex Brid.);L1_Straminergon_stramineum_seq2;L1_seq2;6704;;70-411;;2631-3386;4216-5007;6298-6477;;;6694-6704
+Straminergon stramineum (Dicks. ex Brid.);L1_Straminergon_stramineum_seq3;L1_seq3;6708;;92-451;;2214-2957;3772-4455;;;;6682-6708
+Straminergon stramineum (Dicks. ex Brid.);L1_Straminergon_stramineum_seq4;L1_seq4;5035;;123-530;;1999-2742;3550-4350;;;;5021-5035
+Pseudisothecium myosuroides (Brid.) Grout;L1_Isothecium_myosuroides_seq1;L1_seq1;6028;;519-923;;2861-3541;4461-5201;;;;6022-6028
+Pseudisothecium myosuroides (Brid.) Grout;L1_Isothecium_myosuroides_seq2;L1_seq2;6960;;371-619;;2574-3326;4161-4940;6229-6414;;;6933-6960
+Pseudisothecium myosuroides (Brid.) Grout;L1_Isothecium_myosuroides_seq3;L1_seq3;5912;;399-803;;2741-3421;4341-5081;;;;5902-5912
+Pseudisothecium myosuroides (Brid.) Grout;L1_Isothecium_myosuroides_seq4;L1_seq4;6980;;311-667;;2563-3327;4144-4932;6220-6396;;;6974-6980
+Pseudisothecium myosuroides (Brid.) Grout;L1_Isothecium_myosuroides_seq5;L1_seq5;6560;;63-329;;2663-3406;4228-5010;6199-6486;;;6548-6560
+Adiantum capillus-veneris L.;L1_Adiantum_capillus_veneris_seq1;L1_seq1;5264;;527-694;;1669-2358;3145-3987;;;;5255-5264
+Adiantum capillus-veneris L.;L1_Adiantum_capillus_veneris_seq2;L1_seq2;4552;;233-400;;1375-2064;2851-3693;;;;4544-4552
+Adiantum capillus-veneris L.;L1_Adiantum_capillus_veneris_seq3;L1_seq3;5778;;549-854;;1554-2213;3016-3807;;;;5770-5778
+Adiantum capillus-veneris L.;L1_Adiantum_capillus_veneris_seq4;L1_seq4;4404;;;;541-1224;2109-2846;3736-3960;;;4388-4404
+Ceratopteris richardii Brongn.;L1_Ceratopteris_richardii_seq1;L1_seq1;4144;;;;264-959;1746-2540;3456-3680;;;4131-4144
+Ceratopteris richardii Brongn.;L1_Ceratopteris_richardii_seq2;L1_seq2;5428;;295-588;;1513-2205;3016-3810;4758-4943;;;5411-5428
+Ceratopteris richardii Brongn.;L1_Ceratopteris_richardii_seq3;L1_seq3;6156;;256-597;;1458-2147;2949-3740;4695-4880;5634-5768;;6146-6156
+Ceratopteris richardii Brongn.;L1_Ceratopteris_richardii_seq4;L1_seq4;4156;;;;264-959;1746-2540;3455-3679;;;4126-4156
+Ceratopteris richardii Brongn.;L1_Ceratopteris_richardii_seq5;L1_seq5;6036;;271-612;;1449-2138;2946-3740;5333-5542;;;6021-6036
+Taxus chinensis Roxb.;L1_Taxus_chinensis_seq1;L1_seq1;6136;;77-490;;1788-2483;3294-4082;4884-5126;5526-5888;;6128-6136
+Taxus chinensis Roxb.;L1_Taxus_chinensis_seq2;L1_seq2;6164;;117-539;;1582-2214;3088-3846;4679-4930;5330-5692;;6153-6164
+Taxus chinensis Roxb.;L1_Taxus_chinensis_seq3;L1_seq3;6228;;84-488;;1549-2244;3059-3847;4649-4900;5291-5653;;6217-6228
+Sequoiadendron giganteum (Lindl.) J.Buchholz;L1_Sequoiadendron_giganteum_seq1;L1_seq1;5900;;313-723;;1515-2192;3018-3815;4647-4907;5325-5693;;5888-5900
+Sequoiadendron giganteum (Lindl.) J.Buchholz;L1_Sequoiadendron_giganteum_seq2;L1_seq2;5908;;320-730;;1507-2205;3013-3807;4639-4899;5317-5685;;5894-5908
+Sequoiadendron giganteum (Lindl.) J.Buchholz;L1_Sequoiadendron_giganteum_seq3;L1_seq3;6156;;242-457;;1695-2387;3192-3986;4890-5054;5451-5831;;6148-6156
+Cupressus sempervirens L.;L1_Cupressus_sempervirens_seq1;L1_seq1;6212;;298-630;;1515-2207;3018-3815;4698-4907;5328-5693;;6202-6212
+Cupressus sempervirens L.;L1_Cupressus_sempervirens_seq2;L1_seq2;6124;;238-570;;1455-2147;2958-3755;4638-4847;5268-5633;;6114-6124
+Cupressus sempervirens L.;L1_Cupressus_sempervirens_seq3;L1_seq3;6040;;311-718;;1498-2175;3001-3798;4630-4890;5308-5676;;6029-6040
+Cupressus sempervirens L.;L1_Cupressus_sempervirens_seq4;L1_seq4;6032;;322-729;;1798-2205;3010-3807;4690-4899;5316-5684;;6028-6032
+Cryptomeria japonica (Thunb. ex L.) D.Don;L1_Cryptomeria_japonica_seq1;L1_seq1;5158;;446-880;;1764-2453;3232-4026;4807-5055;;;5143-5158
+Cryptomeria japonica (Thunb. ex L.) D.Don;L1_Cryptomeria_japonica_seq2;L1_seq2;5986;;320-754;;﻿1744-2433;﻿3232-4026;﻿4806-5042;5349-5699;;5969-5986
+Cryptomeria japonica (Thunb. ex L.) D.Don;L1_Cryptomeria_japonica_seq3;L1_seq3;6118;;260-694;;1684-2373;3172-3966;4746-4982;5289-5639;;6108-6118
+Cryptomeria japonica (Thunb. ex L.) D.Don;L1_Cryptomeria_japonica_seq4;L1_seq4;5384;;315-749;;﻿1646-2329;﻿3156-3932;﻿4101-4277;4662-5024;;5376-5384
+Vitis vinifera L.;L1_Vitis_vinifera_seq1;L1_seq1;4156;;;;412-1059;1849-2661;3463-3714;;;4138-4156
+Vitis vinifera L.;L1_Vitis_vinifera_seq2;L1_seq2;5960;;377-814;;2185-2853;3658-4461;5266-5517;;;5947-5960
+Vitis vinifera L.;L1_Vitis_vinifera_seq3;L1_seq3;6468;;575-1018;;2397-3074;3864-4667;5469-5720;;;6456-6468
+Vitis vinifera L.;L1_Vitis_vinifera_seq4;L1_seq4;6024;;385-825;;2231-2821;2231-2821;5319-5570;;;6006-6024
+Vitis vinifera L.;L1_Vitis_vinifera_seq5;L1_seq5;5500;;338-661;;2043-2726;3634-4341;5146-5376;;;5490-5500
+Amborella trichopoda Baill.;L1_Amborella_trichopoda_seq1;L1_seq1;5060;;;;1088-1378;2176-2961;3899-4018;4399-4758;;5039-5060
+Amborella trichopoda Baill.;L1_Amborella_trichopoda_seq2;L1_seq2;5084;;;;1060-1377;2170-2961;3845-4006;4389-4463;;5073-5084
+Amborella trichopoda Baill.;L1_Amborella_trichopoda_seq3;L1_seq3;6148;;;;1021-1443;2481-3275;4082-4276;;;6120-6148
+Amborella trichopoda Baill.;L1_Amborella_trichopoda_seq4;L1_seq4;4361;;;;603-719;1459-2256;3063-3326;3699-4058;;4350-4361
+Amborella trichopoda Baill.;L1_Amborella_trichopoda_seq5;L1_seq5;6874;;153-485;;2390-3001;3861-4658;5751-5855;6228-6587;;6863-6874
+Amborella trichopoda Baill.;RTE_Amborella_trichopoda_seq1;RTE_seq1;2921;;;;440-1156;1993-2730;;;;2908-2921
+Amborella trichopoda Baill.;RTE_Amborella_trichopoda_seq2;RTE_seq2;4413;;;;438-956;2055-2711;;;;4398-4413
+Amborella trichopoda Baill.;RTE_Amborella_trichopoda_seq3;RTE_seq3;3394;;;;537-1019;2089-2775;;;;3377-3394
+Nymphaea colorata Peter;L1_Nymphaea_colorata_seq1;L1_seq1;5880;;343-756;;1779-2189;3235-4032;4795-5046;5374-5733;;5869-5880
+Nymphaea colorata Peter;L1_Nymphaea_colorata_seq2;L1_seq2;5356;;253-645;;1861-2289;3087-3878;4632-4865;;;5347-5356
+Nymphaea colorata Peter;L1_Nymphaea_colorata_seq3;L1_seq3;5220;;352-531;;1550-2215;3013-3804;4564-4809;;;5213-5220
+Nymphaea colorata Peter;L1_Nymphaea_colorata_seq4;L1_seq4;5056;;296-739;;1675-2364;3154-3948;4712-4942;;;5046-5056
+Magnolia amoena W.C.Cheng;L1_Magnolia_amoena_seq1;L1_seq1;6232;259-477;992-1168;;2490-3158;3964-4761;5565-5816;;;6222-6232
+Magnolia amoena W.C.Cheng;L1_Magnolia_amoena_seq2;L1_seq2;6268;260-478;758-1174;;"2917-3201; 2511-2870";3981-4778;5581-5823;;;6253-6268
+Magnolia amoena W.C.Cheng;L1_Magnolia_amoena_seq3;L1_seq3;6328;311-460;744-1163;;2496-2843;3964-4761;5560-5778;;;6312-6328
+Magnolia amoena W.C.Cheng;L1_Magnolia_amoena_seq4;L1_seq4;6204;336-554;814-1224;;"2800-3174; 2496-2753";3964-4761;5561-5818;;;6184-6204
+Magnolia amoena W.C.Cheng;L1_Magnolia_amoena_seq5;L1_seq5;6336;205-426;1001-1189;;2611-3300;4084-4881;5687-5941;;;6325-6336
+Houttuynia cordata Thunb.;RTE_Hottuynia_cordata_seq1;RTE_seq1;3472;;;;360-935;1752-2510;;;;3457-3472
+Houttuynia cordata Thunb.;RTE_Hottuynia_cordata_seq2;RTE_seq2;2988;;;;249-881;1792-2541;;;;2979-2988
+Houttuynia cordata Thunb.;RTE_Hottuynia_cordata_seq3;RTE_seq3;2380;;;;313-783;1603-2241;;;;2356-2380
+Acorus gramineus Aiton;L1_Acorus_gramineus_seq1;L1_seq1;3932;;;;170-751;1639-2421;3227-3490;;;3920-3932
+Acorus gramineus Aiton;L1_Acorus_gramineus_seq2;L1_seq2;3888;;;;361-1038;1825-2622;3428-3640;;;3874-3888
+Acorus gramineus Aiton;L1_Acorus_gramineus_seq3;L1_seq3;4184;;;;296-976;1773-2558;3362-3613;;;4172-4184
+Acorus gramineus Aiton;L1_Acorus_gramineus_seq4;L1_seq4;3964;;;;195-344;1638-2435;3306-3488;;;3946-3964
+Chionographis japonica (Willd.) Maxim.;L1_Chionographis_japonica_seq1;L1_seq1;5826;;403-810;868-957;1680-2363;3141-3947;4719-4997;5295-5654;;5809-5826
+Chionographis japonica (Willd.) Maxim.;L1_Chionographis_japonica_seq2;L1_seq2;5904;;456-884;942-1031;1757-2440;3218-4024;4799-5077;5375-5734;;5888-5904
+Chionographis japonica (Willd.) Maxim.;L1_Chionographis_japonica_seq3;L1_seq3;5828;;395-802;875-949;1675-2358;3141-3947;4719-4997;5295-5654;;5810-5828
+Dendrobium nobile Lindl.;RTE_Dendrobium_nobile_seq1;RTE_seq1;3668;;;;384-1100;1935-2681;;;3245-3265;3657-3668
+Dendrobium nobile Lindl.;RTE_Dendrobium_nobile_seq2;RTE_seq2;3796;;;;394-1110;1935-2681;;;3245-3259;3787-3796
+Dendrobium nobile Lindl.;RTE_Dendrobium_nobile_seq3;RTE_seq3;3728;;;;444-1160;1995-2741;;;3305-3325;3717-3728
+Phoenix dactylifera L.;L1_Phoenix_dactylifera_seq1;L1_seq1;4308;;;;196-813;1606-2412;3223-3426;3778-4119;;4277-4308
+Phoenix dactylifera L.;L1_Phoenix_dactylifera_seq2;L1_seq2;4464;;;;171-845;1638-2408;3254-3457;3809-4171;;4451-4464
+Phoenix dactylifera L.;L1_Phoenix_dactylifera_seq3;L1_seq3;4428;;;;244-933;1726-2532;3343-3546;3898-4239;;4399-4428
+Phoenix dactylifera L.;L1_Phoenix_dactylifera_seq4;L1_seq4;4544;;;;336-1025;1818-2624;3414-3644;3990-4340;;4479-4544
+Aechmea fasciata (Lindl.) Baker;L1_Aechmea_fasciata_seq1;L1_seq1;3984;;;;250-933;1750-2541;3343-3594;;;3964-3984
+Aechmea fasciata (Lindl.) Baker;L1_Aechmea_fasciata_seq2;L1_seq2;4028;;;;313-996;1810-2601;3395-3646;;;4001-4028
+Aechmea fasciata (Lindl.) Baker;L1_Aechmea_fasciata_seq3;L1_seq3;3964;;;;211-897;1690-2481;3274-3525;;;3950-3964
+Aechmea fasciata (Lindl.) Baker;L1_Aechmea_fasciata_seq4;L1_seq4;4100;;;;331-1017;1810-2601;3396-3647;;;4082-4100
+Eleocharis geniculata L. Roem. & Schult.;L1_Eleocharis_geniculata_seq1;L1_seq1;4493;;;;566-1129;2412-3203;3960-4136;;;4483-4493
+Eleocharis geniculata L. Roem. & Schult.;L1_Eleocharis_geniculata_seq2;L1_seq2;4673;;;;746-1309;2592-3383;4140-4316;;;4663-4673
+Eleocharis geniculata L. Roem. & Schult.;L1_Eleocharis_geniculata_seq3;L1_seq3;4369;;;;567-1250;2179-2835;3613-3846;;;4358-4369
+Eleocharis geniculata L. Roem. & Schult.;RTE_Eleocharis_geniculata_seq1;RTE_seq1;4279;;;;747-1463;2292-3041;;;3843-3860;4271-4279
+Eleocharis geniculata L. Roem. & Schult.;RTE_Eleocharis_geniculata_seq2;RTE_seq2;5202;;;;967-1683;2512-3249;;;3820-3831;5187-5202
+Eleocharis geniculata L. Roem. & Schult.;RTE_Eleocharis_geniculata_seq4;RTE_seq4;3788;;;;645-1223;2052-2801;;;3592-3612;3772-3788
+Rhynchospora breviuscula H.Pfeiff.;RTE_Rhynchospora_breviuscula_seq1;RTE_seq1;4223;;;;370-1086;1912-2460;;;3514-3531;4201-4223
+Rhynchospora breviuscula H.Pfeiff.;RTE_Rhynchospora_breviuscula_seq2;RTE_seq2;3736;;;;430-1146;1972-2676;;;3622-3636;3724-3736
+Rhynchospora breviuscula H.Pfeiff.;RTE_Rhynchospora_breviuscula_seq3;RTE_seq3;4002;;;;470-1186;2012-2761;;;3690-3701;3989-4002
+Rhynchospora rugosa (Vahl) Gale;L1_Rhynchospora_rugosa_seq1;L1_seq1;6064;;451-855;859-990;1602-2297;3078-3884;4662-4940;5280-5645;;6046-6064
+Rhynchospora rugosa (Vahl) Gale;L1_Rhynchospora_rugosa_seq2;L1_seq2;4312;;;;643-1329;2113-2901;3658-3912;;;4294-4312
+Rhynchospora rugosa (Vahl) Gale;L1_Rhynchospora_rugosa_seq3;L1_seq3;4359;;;;634-1320;2110-2901;3658-3903;;;4346-4359
+Rhynchospora rugosa (Vahl) Gale;L1_Rhynchospora_rugosa_seq4;L1_seq4;4436;;;;637-1323;2110-2901;3658-3912;;;4420-4436
+Juncus effusus L.;L1_Juncus_effusus_seq1;L1_seq1;5970;;;;1095-1769;2558-3337;3891-4142;;;5760-5770
+Juncus effusus L.;L1_Juncus_effusus_seq2;L1_seq2;4381;;;;836-1516;2312-3091;3653-3904;;;4370-4381
+Juncus effusus L.;L1_Juncus_effusus_seq3;L1_seq3;5082;;;;1147-1728;2612-3385;4172-4420;;;5073-5082
+Juncus effusus L.;L1_Juncus_effusus_seq5;L1_seq5;6062;;;;1080-1760;2561-3331;4107-4328;;;6051-6062
+Luzula sylvatica (Huds.) Gaudin;L1_Luzula_sylvatica_seq1;L1_seq1;5494;;;;972-1643;2436-3221;4014-4265;;;5478-5494
+Luzula sylvatica (Huds.) Gaudin;L1_Luzula_sylvatica_seq2;L1_seq2;5973;;;;1757-2416;3221-4006;4799-5038;;;5957-5973
+Luzula sylvatica (Huds.) Gaudin;L1_Luzula_sylvatica_seq3;L1_seq3;5304;;;;1203-1856;2667-3284;4250-4486;;;5292-5304
+Oryza sativa L.;L1_Oryza_sativa_seq1;L1_seq2;4435;;;;837-1211;2046-2645;3621-3866;;;4424-4435
+Oryza sativa L.;L1_Oryza_sativa_seq2;L1_seq3;4976;;;;1125-1802;2607-3401;4183-4428;;;4964-4976
+Oryza sativa L.;L1_Oryza_sativa_seq3;L1_seq4;4885;;;;1065-1742;2547-3341;2547-3341;;;4874-4885
+Aegilops umbellulata Zhuk.;L1_Aegilops_umbellulata_seq1;L1_seq1;4700;;;;268-948;1993-2781;3658-3810;;;4692-4700
+Aegilops umbellulata Zhuk.;L1_Aegilops_umbellulata_seq2;L1_seq2;4124;;;;268-942;1747-2541;3304-3549;;;4114-4124
+Aegilops umbellulata Zhuk.;L1_Aegilops_umbellulata_seq3;L1_seq3;4700;;;;267-686;1993-2781;3658-3810;;;4692-4700
+Triticum turgidum L.;RTE_Triticum_turgidum_seq1;RTE_seq1;4337;;;;570-1286;2112-2861;;;3471-3488;4326-4337
+Triticum turgidum L.;RTE_Triticum_turgidum_seq2;RTE_seq2;3256;;;;173-889;1715-2464;;;3074-3091;3242-3256
+Triticum turgidum L.;RTE_Triticum_turgidum_seq3;RTE_seq3;3821;;;;412-1032;1955-2704;;;3314-3337;3812-3821
+Zea mays L.;L1_Zea_mays_seq1;L1_seq1;7112;;330-731;735-881;1742-2431;3221-4030;4796-5089;5882-6238;;6996-7112
+Zea mays L.;L1_Zea_mays_seq2;L1_seq2;4944;;;;242-931;1721-2512;3337-3495;;;4933-4944
+Zea mays L.;L1_Zea_mays_seq3;L1_seq3;4236;;;;291-980;1770-2561;3291-3542;;;4221-4236
+Zea mays L.;L1_Zea_mays_seq4;L1_seq4;4640;;;;291-980;1770-2561;3291-3542;;;4627-4640
+Zea mays L.;L1_Zea_mays_seq5;L1_seq5;5820;;250-651;655-801;1662-2351;3141-3950;4715-5008;5312-5677;;5810-5820
+Sorghum bicolor (L.) Moench;L1_Sorghum_bicolor_seq1;L1_seq1;5385;;;;773-1306;2195-2989;3770-4012;;;5374-5385
+Sorghum bicolor (L.) Moench;L1_Sorghum_bicolor_seq2;L1_seq2;5264;;;;653-1186;2075-2869;3650-3892;;;5253-5264
+Sorghum bicolor (L.) Moench;L1_Sorghum_bicolor_seq3;L1_seq3;4318;;;;528-1205;2007-2801;3582-3815;;;4307-4318
+Sorghum bicolor (L.) Moench;L1_Sorghum_bicolor_seq4;L1_seq4;4378;;;;588-1265;2067-2861;3642-3875;;;4367-4378
+Tetracentron sinense Oliv.;L1_Tetracentron_sinense_seq1;L1_seq1;4340;;;;597-1283;2073-2861;3663-3914;;;4328-4340
+Tetracentron sinense Oliv.;L1_Tetracentron_sinense_seq3;L1_seq3;4580;;;;837-1523;2313-3101;3903-4154;;;4568-4580
+Tetracentron sinense Oliv.;L1_Tetracentron_sinense_seq4;L1_seq4;4567;;;;837-1523;2313-3101;3903-4133;;;4558-4567
+Rhodiola kirilowii (Regel) Maxim.;L1_Rhodiola_kirilowii_seq1;L1_seq1;5636;;391-762;880-975;1680-2078;3138-3947;4503-4796;5100-5462;;5624-5636
+Rhodiola kirilowii (Regel) Maxim.;L1_Rhodiola_kirilowii_seq2;L1_seq2;5608;;399-803;;1781-2179;3138-3947;4502-4777;5099-5461;;5600-5608
+Rhodiola kirilowii (Regel) Maxim.;L1_Rhodiola_kirilowii_seq3;L1_seq3;5736;;406-843;;1794-2195;3258-4067;4623-4916;5223-5588;;5724-5736
+Rhodiola kirilowii (Regel) Maxim.;L1_Rhodiola_kirilowii_seq5;L1_seq5;5680;;251-673;737-811;1717-2112;3175-3984;4540-4830;5140-5505;;5671-5680
+Oxalis stricta L.;RTE_Oxalis_stricta_seq1;RTE_seq1;4476;;;;513-1229;2052-2804;;;3601-3612;4458-4476
+Oxalis stricta L.;RTE_Oxalis_stricta_seq2;RTE_seq2;5076;;;;513-1226;2052-2804;;;3587-3610;5065-5076
+Oxalis stricta L.;RTE_Oxalis_stricta_seq3;RTE_seq3;4684;;;;573-1286;2112-2864;;;3647-3670;4676-4684
+Oxalis stricta L.;RTE_Oxalis_stricta_seq4;RTE_seq4;4476;;;;514-1230;2053-2805;;;;4459-4476
+Cannabis sativa L.;L1_Cannabis_sativa_seq1;L1_seq1;5928;;209-460;;2074-2757;3547-4341;5158-5319;;;5919-5928
+Cannabis sativa L.;L1_Cannabis_sativa_seq2;L1_seq2;5356;;173-583;587-730;1246-1932;2695-3504;4279-4548;4861-5226;;5341-5356
+Cannabis sativa L.;L1_Cannabis_sativa_seq3;L1_seq3;5348;;178-585;592-738;1272-1958;2721-3527;4272-4532;4854-5219;;5328-5348
+Cannabis sativa L.;L1_Cannabis_sativa_seq4;L1_seq4;5672;;299-706;710-856;1366-2052;2815-3624;4399-4659;4981-5346;;5639-5672
+Acacia confusa Merr.;L1_Acacia_confusa_seq1;L1_seq1;6040;;292-669;673-798;1962-2327;3355-4161;4918-5175;5518-5874;;6022-6040
+Acacia confusa Merr.;L1_Acacia_confusa_seq2;L1_seq2;6344;;335-730;;2241-2663;3441-4247;5025-5282;5622-5951;;6325-6344
+Acacia confusa Merr.;L1_Acacia_confusa_seq3;L1_seq3;5280;;278-712;716-844;1620-2294;3078-3884;4657-4914;;;5267-5280
+Acacia confusa Merr.;L1_Acacia_confusa_seq4;L1_seq4;6344;;260-667;671-796;1881-2312;3321-4127;4906-5163;5503-5862;;6330-6344
+Vigna unguiculata subsp. sesquipedalis L. Verdc.;L1_Vigna_unguiculata_seq2;L1_seq2;4667;;;;400-1110;2021-2689;3506-3766;;;4653-4667
+Vigna unguiculata subsp. sesquipedalis L. Verdc.;L1_Vigna_unguiculata_seq3;L1_seq3;4483;;;;422-1054;1841-2638;3455-3715;;;4472-4483
+Vigna unguiculata subsp. sesquipedalis L. Verdc.;L1_Vigna_unguiculata_seq4;L1_seq4;6395;365-577;780-1190;;2518-2802;4001-4798;5613-5789;;;6382-6395
+Eucalyptus globulus Labill.;L1_Eucalyptus_globulus_seq2;L1_seq2;5596;;426-836;;1702-2397;3193-3990;4744-4995;;;5579-5596
+Eucalyptus globulus Labill.;L1_Eucalyptus_globulus_seq3;L1_seq3;5720;;443-853;;1822-2517;3316-4110;4864-5097;;;5701-5720
+Eucalyptus globulus Labill.;L1_Eucalyptus_globulus_seq4;L1_seq4;5584;;440-838;;1707-2402;3198-3995;4746-4997;;;5573-5584
+Eucalyptus globulus Labill.;L1_Eucalyptus_globulus_seq5;L1_seq5;5792;;561-992;;1882-2577;3376-4170;4924-5175;;;5780-5792
+Acer campestre L.;L1_Acer_campestre_seq2;L1_seq2;5936;;295-732;;1710-2396;3201-3992;4761-4994;5367-5729;;5914-5936
+Acer campestre L.;L1_Acer_campestre_seq3;L1_seq3;5864;;217-654;;1642-2328;3133-3924;4693-4926;5384-5662;;5848-5864
+Acer campestre L.;L1_Acer_campestre_seq4;L1_seq4;6200;;248-679;683-811;1740-2414;3201-4004;4785-5039;5361-5723;;6186-6200
+Acer campestre L.;L1_Acer_campestre_seq5;L1_seq5;5824;;257-667;671-799;1764-2171;3118-3921;4702-4956;5278-5640;;5808-5824
+Acer campestre L.;L1_Acer_campestre_seq6;L1_seq6;5992;;310-741;745-870;1798-2472;3258-4064;4845-5099;5421-5783;;5982-5992
+Arabidopsis thaliana (L.) Heynh.;L1_Arabidopsis_thaliana_seq1;L1_seq1;5816;;688-993;997-1137;1687-2091;3135-3941;4716-4991;5340-5705;;5806-5816
+Arabidopsis thaliana (L.) Heynh.;L1_Arabidopsis_thaliana_seq2;L1_seq2;6483;;795-1199;1203-1343;1889-2569;3341-4147;4922-5197;5546-5911;;6463-6483
+Arabidopsis thaliana (L.) Heynh.;L1_Arabidopsis_thaliana_seq3;L1_seq3;4919;;;;783-1463;2235-3041;3816-4091;4440-4805;;4908-4919
+Arabidopsis thaliana (L.) Heynh.;L1_Arabidopsis_thaliana_seq4;L1_seq4;5906;;660-1085;1089-1235;1775-2197;3221-4024;4802-5086;5426-5785;;5894-5906
+Gossypium hirsutum L.;L1_Gossypium_hirsutum_seq1;L1_seq1;5969;;472-876;;1505-1915;2958-3764;4536-4817;5114-5479;;5955-5969
+Gossypium hirsutum L.;L1_Gossypium_hirsutum_seq3;L1_seq3;7235;;179-532;;1962-2378;3393-3998;4971-5228;5550-5909;;7219-7235
+Gossypium hirsutum L.;L1_Gossypium_hirsutum_seq4;L1_seq4;5848;;23-424;488-559;1767-2414;3198-4001;4776-5033;5352-5711;;5834-5848
+Senecio sylvaticus L.;L1_Senecio_sylvaticus_seq2;L1_seq2;5211;;309-755;;1336-2031;2821-3621;4398-4655;;;5195-5211
+Senecio sylvaticus L.;L1_Senecio_sylvaticus_seq3;L1_seq3;5239;;443-895;;1476-2114;2898-3698;4476-4730;;;5228-5239
+Senecio sylvaticus L.;L1_Senecio_sylvaticus_seq4;L1_seq4;5256;;386-832	;;1413-2108;2898-3698;4448-4705;;;5246-5256
+Helianthus annuus L.;L1_Helianthus_annuus_seq2;L1_seq2;5509;;114-560;;1486-2187;2970-3770;4548-4814;;;5495-5509
+Helianthus annuus L.;L1_Helianthus_annuus_seq3;L1_seq3;5546;79-291;511-855;;1782-2471;3261-4055;4710-4895;;;5520-5546
+Helianthus annuus L.;L1_Helianthus_annuus_seq4;L1_seq4;5802;85-276;;;2043-2726;3516-4310;5118-5357;;;5793-5802
+Helianthus annuus L.;L1_Helianthus_annuus_seq6;L1_seq6;4495;124-384;;;1458-2168;3015-3764;;;;4488-4495
+Helianthus annuus L.;RTE_Helianthus_annuus_seq2;RTE_seq2;3058;;;;391-918;1812-2564;;;;3049-3058
+Mikania micrantha Kunth;RTE_Mikania_micrantha_seq1;RTE_seq1;3639;;;;504-1214;2055-2801;;;;3627-3639
+Mikania micrantha Kunth;RTE_Mikania_micrantha_seq2;RTE_seq2;3502;;;;373-1083;1924-2670;;;;3488-3502
+Mikania micrantha Kunth;RTE_Mikania_micrantha_seq3;RTE_seq3;3784;;;;504-1214;2055-2801;;;;3764-3784
+Mikania micrantha Kunth;RTE_Mikania_micrantha_seq4;RTE_seq4;4070;;;;604-1314;2155-2910;;;;4052-4070
+Mikania micrantha Kunth;RTE_Mikania_micrantha_seq5;RTE_seq5;3745;;;;625-1152;2175-2921;;;;3725-3745
+Daucus carota L.;L1_Daucus_carota_seq1;L1_seq1;5292;;90-524;528-671;1190-1600;2635-3441;4219-4485;4804-5169;;5273-5292
+Daucus carota L.;L1_Daucus_carota_seq2;L1_seq2;5529;;92-529;596-679;1225-1653;2710-3411;4197-4460;4774-5136;;5519-5529
+Daucus carota L.;L1_Daucus_carota_seq3;L1_seq3;5499;;109-546;625-696;1245-1655;2841-3647;4424-4693;5012-5377;;5483-5499
+Aralia elata (Miq.) Seem.;L1_Aralia_elata_seq1;L1_seq1;6656;;308-739;;1378-2064;2869-3681;4459-4701;5577-5903;;6642-6656
+Aralia elata (Miq.) Seem.;L1_Aralia_elata_seq2;L1_seq2;5152;;358-564;;1405-2091;2896-3684;4462-4707;;;5137-5152
+Aralia elata (Miq.) Seem.;L1_Aralia_elata_seq3;L1_seq3;4860;;385-483;;1116-1802;2607-3395;4173-4418;;;4848-5860
+Aralia elata (Miq.) Seem.;L1_Aralia_elata_seq4;L1_seq4;5660;;413-721;;1339-2025;2827-3624;4402-4644;;;5643-5660
+Coffea canephora Pierre ex A.Froehner;L1_Coffea_canephora_seq2;L1_seq2;5920;;278-664;719-856;1711-2391;3175-3984;4750-5043;5386-5748;;5892-5920
+Coffea canephora Pierre ex A.Froehner;L1_Coffea_canephora_seq3;L1_seq3;4268;;;;297-680;1459-2244;3054-3275;3609-3971;;4251-4268
+Coffea canephora Pierre ex A.Froehner;L1_Coffea_canephora_seq4;L1_seq4;4426;;;;268-897;1675-2484;3358-3552;3934-4218;;4416-4426
+Coffea canephora Pierre ex A.Froehner;L1_Coffea_canephora_seq5;L1_seq5;5928;;296-658;;1746-2153;3201-4010;4775-5077;5414-5779;;5918-5928
+Coffea canephora Pierre ex A.Froehner;L1_Coffea_canephora_seq7;L1_seq7;5860;;252-614;;1707-2363;3141-3947;4845-5009;5346-5711;;5850-5860
+Jacaranda mimosifolia D Don.;L1_Jacaranda_mimosifolia_seq1;L1_seq1;7332;;268-684;;2130-2774;3558-4358;5109-5342;5736-6095;;7315-7332
+Jacaranda mimosifolia D Don.;L1_Jacaranda_mimosifolia_seq2;L1_seq2;7184;;280-708;;1656-2294;3078-3878;4629-4862;5256-5615;;7158-7184
+Jacaranda mimosifolia D Don.;L1_Jacaranda_mimosifolia_seq3;L1_seq3;7044;;340-768;;1716-2354;3138-3938;4689-4922;5316-5675;;7010-7044
+Jacaranda mimosifolia D Don.;L1_Jacaranda_mimosifolia_seq5;L1_seq5;6072;;464-892	;;1813-2463;3256-4044;4804-5052;5431-5790;;6054-6072
+Solanum tuberosum L.;L1_Solanum_tuberosum_seq1;L1_seq1;4525;;124-534;;1065-1730;2541-3338;3855-4100;;;4511-4525
+Solanum tuberosum L.;L1_Solanum_tuberosum_seq2;L1_seq2;4509;;124-534;;1065-1730;2541-3338;3855-4100;;;4496-4509
+Solanum tuberosum L.;L1_Solanum_tuberosum_seq3;L1_seq3;4430;;103-537;;1062-1649;2541-3338;3864-4106;;;4419-4430
+Solanum tuberosum L.;RTE_Solanum_tuberosum_seq1;RTE_seq1;3652;;;;384-1094;1941-2690;;;3576-3599;3636-3652
+Solanum tuberosum L.;RTE_Solanum_tuberosum_seq2;RTE_seq2;3376;;;;341-1051;1898-2647;;;3231-3248;3367-3376
+Solanum tuberosum L.;RTE_Solanum_tuberosum_seq3;RTE_seq3;3736;;;;281-991	;1838-2587;;;3472-3492;3727-3736
+Capsicum baccatum L.;L1_Capsicum_baccatum_seq1;L1_seq1;7706;;295-726;;3729-4121;4917-5702;6471-6722;7092-7454;;7687-7706
+Capsicum baccatum L.;RTE_Capsicum_baccatum_seq1;RTE_seq1;4167;;;;547-1257;2101-2853;;;3746-3760;4157-4167
+Capsicum baccatum L.;RTE_Capsicum_baccatum_seq2;RTE_seq2;3833;;;;538-1248;2095-2844;;;3723-3734;3826-3833
+Capsicum baccatum L.;RTE_Capsicum_baccatum_seq3;RTE_seq3;4078;;;;532-1242;2086-2835;;;3681-3698;4069-4078
