@@ -3,12 +3,13 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Seq import Seq
 import pandas as pd
 from collections import defaultdict
+from pathlib import Path
 
-metadata_file = r'../data/metadata_updated.csv'
-seqs_file = r'../data/seqs.fasta'
+metadata_file = r'../data/metadata.csv'
+seqs_file = r'../data/All_LINES_nucl_complete_sequences.fa'
 output_folder = r'../data/domains/'
 metadata = pd.read_csv(metadata_file, sep=';', index_col=False)
-elements_files = metadata['Name of elements'].to_list()
+elements_files = metadata['SeqName'].to_list()
 
 def get_regions(df) -> defaultdict(list):
     """
@@ -23,31 +24,37 @@ def get_regions(df) -> defaultdict(list):
                            each tuple containing the start and end positions of the region.
     """
     
-    regions = defaultdict(list)
-
-    # Iterate over rows to access individual values
-    for idx, row in df.iterrows():
-        if pd.notna(row['ORF 1 RRM início']):
-            regions['ORF1 RRM'].append((int(row['ORF 1 RRM início']), int(row['ORF 1 RRM  fim'])))
-        if pd.notna(row['ORF 1 DUF início']):
-            regions['ORF1 DUF'].append((int(row['ORF 1 DUF início']), int(row['ORF 1 DUF fim'])))
-        if pd.notna(row['ORF 1 Zf-CCHC início']):
-            regions['ORF1 Zf-CCHC'].append((int(row['ORF 1 Zf-CCHC início']), int(row['ORF 1 Zf-CCHC fim'])))
-        if pd.notna(row['ORF 1 PHA(?) início']):
-            regions['ORF1 PHA'].append((int(row['ORF 1 PHA(?) início']), int(row['ORF 1 PHA(?)  fim'])))
-        if pd.notna(row['ORF 2 EEP início']):
-            regions['ORF2 EEP'].append((int(row['ORF 2 EEP início']), int(row['ORF 2 EEP  fim'])))
-        if pd.notna(row['ORF 2 RT início']):
-            regions['ORF2 RT'].append((int(row['ORF 2 RT início']), int(row['ORF 2 RT fim'])))
-        if pd.notna(row['ORF 2 Zf-RVT início']):
-            regions['ORF2 ZF-RVT'].append((int(row['ORF 2 Zf-RVT início']), int(row['ORF 2 Zf-RVT  fim'])))
-        if pd.notna(row['ORF 2 RH início']):
-            regions['ORF2 RH'].append((int(row['ORF 2 RH início']), int(row['ORF 2 RH fim'])))
-        if pd.notna(row['(GTT)n início']):
-            regions['(GTT)n'].append((int(row['(GTT)n início']), int(row['(GTT)n fim'])))
-        if pd.notna(row['Poli-A início']):
-            regions['Poli-A'].append((int(row['Poli-A início']), int(row['Poli-A fim'])))
+    # mapping of df column → regions key
+    col_map = {
+        "ORF-1 RRM": "ORF1 RRM",
+        "ORF-1 DUF": "ORF1 DUF",
+        "ORF-1 zf-CCHC": "ORF1 Zf-CCHC",
+        "EEP": "EEP",
+        "RT": "RT",
+        "RVT": "ZF-RVT",
+        "RH": "RH",
+        "GTT": "(GTT)n",
+        "Poli-A": "Poli-A"
+    }
     
+    regions = defaultdict(list)
+    
+    for col, key in col_map.items():
+        # take only non-null values
+        valid = df[col].dropna()
+    
+        if valid.empty:
+            continue  # nothing to do for this column
+    
+        # split into start / end with regex (safer than plain split)
+        split_vals = (
+            valid.str.extract(r"(\d+)-(\d+)")
+                 .dropna()
+                 .astype(int)
+        )
+    
+        regions[key].extend(list(zip(split_vals[0], split_vals[1])))
+        
     return regions
 
 
@@ -57,7 +64,10 @@ with open(seqs_file, encoding="utf-8") as handle:
         seq_name = str(record.id)
         seq = str(record.seq).upper()
         if seq_name in elements_files:
-            temp_df = metadata[metadata['Name of elements'] == seq_name]
+            temp_df = metadata[metadata['SeqName'] == seq_name]
+            
+            # if (len(seq) + 1) != temp_df['Size (bp)'].iloc[0]:
+            #     print(seq_name, ": Seq_Len:", len(seq) + 1, "Seq_Len (annotated):",  temp_df['Size (bp)'].iloc[0])
         # else:
             # print(seq_name)
             regions = get_regions(temp_df)
@@ -65,7 +75,8 @@ with open(seqs_file, encoding="utf-8") as handle:
                 start = v[0][0] - 1
                 stop = v[0][1]
                 cutted = ''.join(list(seq)[start:stop])
-                
+                # if len(cutted) == 0:
+                #     print(seq_name, " ", k)
                 seq_file_name = seq_name + '_' + str(k) + '_' + str(start+1) + ':' + str(stop)
                 cutted_seq = SeqRecord(
                     Seq(cutted),
@@ -73,8 +84,26 @@ with open(seqs_file, encoding="utf-8") as handle:
                     description=''
                 )
                 
-                output_file = output_folder + str(k) + seq_name + '.fasta'
+                seq_ = SeqRecord(
+                    Seq(seq),
+                    id=seq_name,
+                    description=''
+                )
                 
-                with open(file=output_file, mode = "w") as out_file:
+                organism = temp_df['Organism Name'].iloc[0]  # get the first value
+                save_path = Path(output_folder) / organism
+                save_path_lines = save_path / 'LINES'
+                
+                save_path.mkdir(parents=True, exist_ok=True)
+                save_path_lines.mkdir(parents=True, exist_ok=True)
+                                
+                file_name = str(k) + '.fasta'
+                output_file = save_path / file_name
+                line_name = seq_name + '_LINE.fasta'
+                output_file_line = save_path_lines / line_name
+                
+                with open(file=output_file, mode = "a") as out_file:
                     SeqIO.write(cutted_seq, out_file, "fasta")
-            
+                    
+            with open(file=output_file_line, mode = "a") as out_file:
+                SeqIO.write(seq_, out_file, "fasta")
