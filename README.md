@@ -23,17 +23,17 @@ The `data` folder contains all files related to the work and is subdivided as fo
 - [`metadata.csv`](data/metadata.csv): Contains the metadata used for annotation, extraction, and database generation.
 - [`metadata.xlsx`](data/metadata.xlsx): Contains the metadata used for annotation, extraction, and database generation.
 - [`annotation.xlsx`](data/annotation.xlsx): Contains the metadata used for annotation, extraction, and database generation.
-- [`All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta): 
-- [`All_LINES_nucl_complete_sequences.fa`](data/All_LINES_nucl_complete_sequences.fa):
-- [`All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta): 
-- [LINEs_EEP_DB_nucl_extracted_seqs.fasta](data/LINEs_EEP_DB_nucl_extracted_seqs.fasta):
-- [LINEs_EEP_DB_prot_extracted_seqs.fasta](data/LINEs_EEP_DB_prot_extracted_seqs.fasta):
-- [LINEs_RH_DB_nucl_extracted_seqs.fasta](data/LINEs_RH_DB_nucl_extracted_seqs.fasta):
-- [LINEs_RH_DB_prot_extracted_seqs.fasta](data/LINEs_RH_DB_prot_extracted_seqs.fasta):
-- [LINEs_RT_DB_nucl_extracted_seqs.fasta](data/LINEs_RT_DB_nucl_extracted_seqs.fasta):
-- [LINEs_RT_DB_prot_extracted_seqs.fasta](data/LINEs_RT_DB_prot_extracted_seqs.fasta):
-- [LINEs_RVT_DB_nucl_extracted_seqs.fasta](data/LINEs_RVT_DB_nucl_extracted_seqs.fasta):
-- [LINEs_RVT_DB_prot_extracted_seqs.fasta](data/LINEs_RVT_DB_prot_extracted_seqs.fasta):
+- [`All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta): Contains sequences of LINE elements Exonuclease-Endonuclease-Phosphatase (EEP), zinc-binding region in Reverse Transcriptase (zf-RVT) and Ribonuclease-H (RH) domains that were present in online databases (RepBase, REXdb and NCBI).  
+- [`All_LINES_nucl_complete_sequences.fa`](data/All_LINES_nucl_complete_sequences.fa): Database containing the complete nucleotide sequences of all annotated LINEs elements.  
+- [`All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta): Contains sequences of LINE elements Reverse Transcriptase (RT) domains that were present in online databases (RepBase, REXdb and NCBI).  
+- [LINEs_EEP_DB_nucl_extracted_seqs.fasta](data/LINEs_EEP_DB_nucl_extracted_seqs.fasta): Database containing nucleotide sequences of the Exonuclease-Endonuclease-Phosphatase (EEP) domains found in the annotated LINEs elements.  
+- [LINEs_EEP_DB_prot_extracted_seqs.fasta](data/LINEs_EEP_DB_prot_extracted_seqs.fasta): Database containing amino acid sequences of the Exonuclease-Endonuclease-Phosphatase (EEP) domains found in the annotated LINEs elements.  
+- [LINEs_RH_DB_nucl_extracted_seqs.fasta](data/LINEs_RH_DB_nucl_extracted_seqs.fasta): Database containing nucleotide sequences of the Ribonuclease-H (RH) domains found in the annotated LINEs elements.  
+- [LINEs_RH_DB_prot_extracted_seqs.fasta](data/LINEs_RH_DB_prot_extracted_seqs.fasta): Database containing amino acid sequences of the Ribonuclease-H (RH) domains found in the annotated LINEs elements.  
+- [LINEs_RT_DB_nucl_extracted_seqs.fasta](data/LINEs_RT_DB_nucl_extracted_seqs.fasta): Database containing nucleotide sequences of the Reverse Transcriptase (RT) domains found in the annotated LINEs elements.  
+- [LINEs_RT_DB_prot_extracted_seqs.fasta](data/LINEs_RT_DB_prot_extracted_seqs.fasta): Database containing amino acid sequences of the Reverse Transcriptase (RT) domains found in the annotated LINEs elements.  
+- [LINEs_RVT_DB_nucl_extracted_seqs.fasta](data/LINEs_RVT_DB_nucl_extracted_seqs.fasta): Database containing nucleotide sequences of the zinc-binding region in Reverse Transcriptase (zf-RVT) domains found in the annotated LINEs elements.  
+- [LINEs_RVT_DB_prot_extracted_seqs.fasta](data/LINEs_RVT_DB_prot_extracted_seqs.fasta): Database containing amino acid sequences of the zinc-binding region in Reverse Transcriptase (zf-RVT) domains found in the annotated LINEs elements.  
 
 
 Additionally, the `data` folder contains the following folder: `domains`. This folder contain all sequences, domains and figures. Each organism has its own folder with the following structure:
