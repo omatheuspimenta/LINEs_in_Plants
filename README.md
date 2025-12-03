@@ -20,6 +20,7 @@ The `data` folder contains all files related to the work and is subdivided as fo
 - [`metadata.csv`](data/metadata.csv): Contains the metadata used for annotation, extraction, and database generation.
 - [`metadata.xlsx`](data/metadata.xlsx): Contains the metadata used for annotation, extraction, and database generation.
 - [`annotation.xlsx`](data/annotation.xlsx): Contains the metadata used for annotation, extraction, and database generation.
+- [`LINE_domain_annotations.gff3`](data/LINE_domain_annotations.gff3): Conserved domains annotated by elements and species (GFF3)
 - [`All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_EEP_RVT_RH_prot_DB_RepBase_REXdb_NCBI.fasta): Contains sequences of LINE elements Exonuclease-Endonuclease-Phosphatase (EEP), zinc-binding region in Reverse Transcriptase (zf-RVT) and Ribonuclease-H (RH) domains that were present in online databases (RepBase, REXdb and NCBI).  
 - [`All_LINES_nucl_complete_sequences.fa`](data/All_LINES_nucl_complete_sequences.fa): Database containing the complete nucleotide sequences of all annotated LINEs elements.  
 - [`All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta`](data/All_LINEs_RT_prot_DB_RepBase_REXdb_NCBI.fasta): Contains sequences of LINE elements Reverse Transcriptase (RT) domains that were present in online databases (RepBase, REXdb and NCBI).  
