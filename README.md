@@ -12,10 +12,7 @@ Long interspersed nuclear elements (LINEs) are a type of non-LTR retrotransposon
 This repository is organized as follows:
 
 ### Code
-The `code` folder contains all files related to the replication of the methodology:
-
-- [`get_domains.ipynb`](code/get_domains.py): Generates the RAW, soft, and hard annotation regions, along with annotation images.
-- [`split_seqs_regions.py`](code/split_seqs_regions.py): Separates the regions of the LINEs domains based on the metadata.
+The `code` folder contains all files and instructions related to the replication of the methodology:
 
 ### Data
 The `data` folder contains all files related to the work and is subdivided as follows:
